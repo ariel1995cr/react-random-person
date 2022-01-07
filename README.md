@@ -2,8 +2,6 @@
 ![This is a alt text.](/screenshot/Random%20Person.png "This is a sample image.")
 
 # Tech Stack
-
-### Unordered
 * React JS
 * React Hooks
 * Redux
